@@ -12,7 +12,7 @@
 🎓 &nbsp;I am currently studying Computer Science and Informatics.\
 🌱 &nbsp;I am on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;¡You can email me at [here](mailto:rph26031994@gmail.com)! I will try to respond as soon as possible.\
-📄 &nbsp;Please take a look at my [Curriculum](https://rodrigoporfolio26.netlify.app) for more details about me. I am open to feedback and suggestions!
+📄 &nbsp;Please take a look at my [portfolio](https://rodrigoporfolio26.netlify.app) for more details about me. I am open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
