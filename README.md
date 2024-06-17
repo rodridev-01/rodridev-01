@@ -2,20 +2,24 @@
   <img src="https://i.pinimg.com/originals/33/ff/e0/33ffe07781f90b9ea9d5802745c3c826.gif" alt="Welcome">
 </p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Rodrigo</h2>
+<h2 align="center">
+  <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40"/> Hey there! I'm Rodrigo
+</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Rodrigo -->
 <br>
+
 👨🏻‍💻&nbsp;<strong>About Me</strong>
 
 💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
-🎓 &nbsp;I am currently studying Computer Science and Informatics.\
-🌱 &nbsp;I am on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;¡You can email me at [here](mailto:rph26031994@gmail.com)! I will try to respond as soon as possible.\
-📄 &nbsp;Please take a look at my [portfolio](https://rodrigoporfolio26.netlify.app) for more details about me. I am open to feedback and suggestions!
+🎓 &nbsp;Currently studying Computer Science and Informatics.\
+🌱 &nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✉️ &nbsp;You can email me [here](mailto:rph26031994@gmail.com). I will try to respond as soon as possible.\
+📄 &nbsp;Check out my [portfolio](https://rodrigoporfolio26.netlify.app) for more details. I am open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+
 <br>
+
 🛠 &nbsp;<strong>Tech Stack</strong>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,7 +41,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br>
-<br>
+
 🤝🏻 &nbsp;<strong>Connect with Me</strong>
 
 <p align="center">
@@ -47,5 +51,7 @@
 </p>
 
 -----
+
+
 
 
