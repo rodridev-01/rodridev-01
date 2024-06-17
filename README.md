@@ -44,9 +44,9 @@
 
 📂 &nbsp;<strong>Projects</strong>
 
-- **[Project 1](https://github.com/yourusername/project1):** Brief description of what the project does or its significance.
-- **[Project 2](https://github.com/yourusername/project2):** Brief description of what the project does or its significance.
-- **[Project 3](https://github.com/yourusername/project3):** Brief description of what the project does or its significance.
+- **[Crunchy.va](https://animebebop.netlify.app):** Clon Crunchyroll.
+- **[Porfolio](rodrigoporfolio26.netlify.app):** My portfolio with Astro.
+- **[Spotify Clone](https://spotify26.netlify.app):** With Astro.
 
 <br>
 
