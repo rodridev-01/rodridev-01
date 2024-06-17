@@ -10,11 +10,11 @@
 
 👨🏻‍💻&nbsp;<strong>About Me</strong>
 
-💡&nbsp;I like to explore new technologies and develop quick software solutions.\
-🎓&nbsp;Currently studying Computer Science and Informatics.\
-🌱&nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✉️&nbsp;You can email me [here](mailto:rph26031994@gmail.com). I will try to respond as soon as possible.\
-📄&nbsp;Check out my [portfolio](https://rodrigoporfolio26.netlify.app) for more details. I am open to feedback and suggestions!
+💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
+🎓 &nbsp;Currently studying Computer Science and Informatics.\
+🌱 &nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✉️ &nbsp;You can email me [here](mailto:rph26031994@gmail.com). I will try to respond as soon as possible.\
+📄 &nbsp;Check out my [portfolio](https://rodrigoporfolio26.netlify.app) for more details. I am open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
@@ -42,6 +42,14 @@
 
 <br>
 
+📂 &nbsp;<strong>Projects</strong>
+
+- **[Project 1](https://github.com/yourusername/project1):** Brief description of what the project does or its significance.
+- **[Project 2](https://github.com/yourusername/project2):** Brief description of what the project does or its significance.
+- **[Project 3](https://github.com/yourusername/project3):** Brief description of what the project does or its significance.
+
+<br>
+
 🤝🏻 &nbsp;<strong>Connect with Me</strong>
 
 <p align="center">
@@ -51,6 +59,7 @@
 </p>
 
 -----
+
 
 
 
