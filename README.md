@@ -51,7 +51,7 @@
 <br>
 🦝 &nbsp;<strong>Raccoon Jams</strong>
 
-- **[Raccoon](https://rodridev-01.github.io/Card-Hover/):** Raccoon Jams is a whimsical project featuring five adorable raccoon images. When you hover over each image, it plays a fun sound effect. It's a simple yet amusing way to add some joy to your day!.
+- **[Raccoon](https://rodridev-01.github.io/Card-Hover/):** Five cute raccoon images that play fun sounds when hovered over. Simple, amusing, and guaranteed to bring a smile to your face!.
 
 <br>
 
