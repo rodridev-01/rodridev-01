@@ -1,4 +1,4 @@
-![Welcome](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1be12c22-0203-4308-8bdd-be199fe7b6d3/dbpqj1d-7f3f2395-cb15-4efb-b163-2126710554f8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiZTEyYzIyLTAyMDMtNDMwOC04YmRkLWJlMTk5ZmU3YjZkM1wvZGJwcWoxZC03ZjNmMjM5NS1jYjE1LTRlZmItYjE2My0yMTI2NzEwNTU0ZjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M_eNSuOIhZUecwX3QaNhAYUYGVNN4O5K8EiKD-mUSYc)
+![Welcome](https://i.pinimg.com/originals/33/ff/e0/33ffe07781f90b9ea9d5802745c3c826.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Rodrigo</h2>
 
