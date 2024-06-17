@@ -52,7 +52,7 @@
 
 🤝🏻 &nbsp;<strong>Connect with Me</strong>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/rodrigo-peña-0953762b1/"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-@rodrigou.py-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
