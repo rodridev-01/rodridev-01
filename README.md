@@ -49,6 +49,11 @@
 - **[Spotify Clone](https://spotify26.netlify.app):** A Spotify clone created with Astro.
 
 <br>
+🦝 &nbsp;<strong>Raccoon Jams</strong>
+
+- **[Raccoon](https://rodridev-01.github.io/Card-Hover/):** Raccoon Jams is a whimsical project featuring five adorable raccoon images. When you hover over each image, it plays a fun sound effect. It's a simple yet amusing way to add some joy to your day!.
+
+<br>
 
 🤝🏻 &nbsp;<strong>Connect with Me</strong>
 
