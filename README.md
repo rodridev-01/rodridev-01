@@ -16,7 +16,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
-🛠 &nbsp;Tech Stack
+🛠 &nbsp;<strong>Tech Stack</strong>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,7 +38,7 @@
 
 <br>
 <br>
-🤝🏻 &nbsp;Connect with Me
+🤝🏻 &nbsp;<strong>Connect with Me</strong>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-peña-0953762b1/"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
