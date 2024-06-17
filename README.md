@@ -1,6 +1,6 @@
 ![Welcome](https://i.pinimg.com/originals/33/ff/e0/33ffe07781f90b9ea9d5802745c3c826.gif)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Rodrigo</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rodrigo</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rodrigo -->
 <br>
