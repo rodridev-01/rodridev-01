@@ -6,7 +6,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rodrigo -->
 <br>
-👨🏻‍💻 &nbsp;About Me
+**👨🏻‍💻  About Me**
 
 💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
 🎓 &nbsp;I am currently studying Computer Science and Informatics.\
