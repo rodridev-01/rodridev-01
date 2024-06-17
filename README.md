@@ -44,9 +44,9 @@
 
 📂 &nbsp;<strong>Projects</strong>
 
-- **[Crunchy.va](https://animebebop.netlify.app):** Clon Crunchyroll.
-- **[Porfolio](rodrigoporfolio26.netlify.app):** My portfolio with Astro.
-- **[Spotify Clone](https://spotify26.netlify.app):** With Astro.
+- **[Crunchy.va](https://animebebop.netlify.app):** An attempted Crunchyroll clone.
+- **[Porfolio](rodrigoporfolio26.netlify.app):** My portfolio built with Astro, showcasing my projects, skills, and experiences.
+- **[Spotify Clone](https://spotify26.netlify.app):** A Spotify clone created with Astro.
 
 <br>
 
