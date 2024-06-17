@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Rodrigo</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rodrigo -->
-
+<br>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
@@ -13,7 +13,7 @@
 📄 &nbsp;Please take a look at my [Curriculum](https://rodrigoporfolio26.netlify.app) for more details about me. I am open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -34,13 +34,13 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+<br>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-peña-0953762b1/"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Rodrigo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-@RodriDev__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-@rodrigou.py-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
