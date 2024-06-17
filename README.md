@@ -2,15 +2,15 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Rodrigo -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software rápidos.\
-🎓 &nbsp;Actualmente estoy estudiando Computación e Informática.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a rph26031994@gmail.com! Intentaré responder lo antes posible.\
-📄 &nbsp;Por favor, echa un vistazo a mi [Curriculum](https://rodrigoporfolio26.netlify.app) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
+🎓 &nbsp;I am currently studying Computer Science and Informatics.\
+🌱 &nbsp;I am on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✉️ &nbsp;¡You can email me at [here](mailto:rph26031994@gmail.com)! I will try to respond as soon as possible.\
+📄 &nbsp;Please take a look at my [Curriculum](https://rodrigoporfolio26.netlify.app) for more details about me. I am open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -33,21 +33,13 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/rodridev-01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Rodrigo%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rodrigo-peña-0953762b1/"><img src="https://img.shields.io/badge/-Rodrigo%20Peña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Rodrigo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@RodriDev__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-@RodriDev__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
