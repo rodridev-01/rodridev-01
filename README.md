@@ -47,6 +47,7 @@
 - **[Crunchy.va](https://animebebop.netlify.app):** An attempted Crunchyroll clone.
 - **[Portfolio](https://rodrigoporfolio26.netlify.app):** My portfolio built with Astro, showcasing my projects, skills, and experiences.
 - **[Spotify Clone](https://spotify26.netlify.app):** A Spotify clone created with Astro.
+- **[Other Portfolio](https://pixelrodridev.netlify.app):** Retro.
 
 <br>
 🦝 &nbsp;<strong>Raccoon Jams</strong>
