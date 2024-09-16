@@ -78,8 +78,6 @@
     <td align="center" width="120px">
       <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator"/>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120px">
       <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop"/>
     </td>
