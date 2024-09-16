@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img alt="Night Coding" src="[https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif]" width="40"/> Hey there! I'm Rodrigo
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="40"/> Hey there! I'm Rodrigo
 </h2>
 
 <br>
