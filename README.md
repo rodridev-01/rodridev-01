@@ -10,12 +10,12 @@
 
 👨🏻‍💻&nbsp;<strong>About Me</strong>
 
-💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
-🎓 &nbsp;Currently studying Computer Science and Informatics.\
-🌱 &nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-📚 &nbsp;Improving my backend skills with **Node.js & MongoDB**  
-✉️ &nbsp;You can email me [here](mailto:rph26031994@gmail.com). I will try to respond as soon as possible.\
-📄 &nbsp;Check out my [portfolio](https://rodrigoporfolio26.netlify.app) for more details. I am open to feedback and suggestions!
+💡 &nbsp;I like to explore new technologies and develop quick software solutions.<br>
+🎓 &nbsp;Currently studying Computer Science and Informatics.<br>
+🌱 &nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
+📚 &nbsp;Improving my backend skills with <strong>Node.js & MongoDB</strong>.<br>
+✉️ &nbsp;You can email me <a href="mailto:rph26031994@gmail.com">here</a>. I will try to respond as soon as possible.<br>
+📄 &nbsp;Check out my <a href="https://rodrigoporfolio26.netlify.app">portfolio</a> for more details. I am open to feedback and suggestions!
 
 ⚡ Fun fact: I love drawing and sometimes write scripts!
 
@@ -32,13 +32,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)<br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
@@ -47,22 +47,22 @@
 
 📂 &nbsp;<strong>Projects</strong>
 
-- **[Crunchy.va](https://animebebop.netlify.app):** An attempted Crunchyroll clone.
-- **[Portfolio](https://rodrigoporfolio26.netlify.app):** My portfolio built with Astro, showcasing my projects, skills, and experiences.
-- **[Spotify Clone](https://spotify26.netlify.app):** A Spotify clone created with Astro.
-- **[Other Portfolio](https://pixelrodridev.netlify.app):** Retro.
+- **<a href="https://animebebop.netlify.app">Crunchy.va</a>:** An attempted Crunchyroll clone.
+- **<a href="https://rodrigoporfolio26.netlify.app">Portfolio</a>:** My portfolio built with Astro, showcasing my projects, skills, and experiences.
+- **<a href="https://spotify26.netlify.app">Spotify Clone</a>:** A Spotify clone created with Astro.
+- **<a href="https://pixelrodridev.netlify.app">Other Portfolio</a>:** Retro.
 
 <br>
 
 🕹 &nbsp;<strong>Games</strong>
 
-- **[Raccoon's Adventure](https://github.com/rodridev-01/Raccoon-s-Adventure)**: A fun platformer game where Rocket, an adventurous raccoon, tackles obstacles and collects coins. Built with Unity and C#.
+- **<a href="https://github.com/rodridev-01/Raccoon-s-Adventure">Raccoon's Adventure</a>:** A fun platformer game where Rocket, an adventurous raccoon, tackles obstacles and collects coins. Built with Unity and C#.
 
 <br>
 
 🦝 &nbsp;<strong>Raccoon Jams</strong>
 
-- **[Raccoon](https://rodridev-01.github.io/Card-Hover/):** Cute raccoon images with playful sounds on hover. Simple joy in every hover!.
+- **<a href="https://rodridev-01.github.io/Card-Hover/">Raccoon</a>:** Cute raccoon images with playful sounds on hover. Simple joy in every hover!.
 
 <br>
 
@@ -75,9 +75,6 @@
 </p>
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodridev-01&show_icons=true&theme=radical)
-
-
------
 
 
 
