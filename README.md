@@ -16,7 +16,7 @@
 🎓 Currently studying Computer Science and Informatics.<br>
 🌱 Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 📚 Improving my backend skills with **Node.js & MongoDB**.<br>
-✉️ You can email me at <a href="mailto:rph26031994@gmail.com" style="color:#f7c02b; text-decoration:none;">rph26031994@gmail.com</a>. I will try to respond as soon as possible.<br>
+✉️ You can email me at <a href="mailto:rph26031994@gmail.com" style="color:#f7c02b; text-decoration:none;">here</a>. I will try to respond as soon as possible.<br>
 📄 Check out my <a href="https://rodrigoporfolio26.netlify.app" style="color:#f7c02b; text-decoration:none;">portfolio</a> for more details. I am open to feedback and suggestions!
 
 ⚡ Fun fact: I love drawing and sometimes write scripts!
