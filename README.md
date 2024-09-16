@@ -74,7 +74,7 @@
 <a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-@rodrigou.py-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoUsername&show_icons=true&theme=radical)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodridev-01&show_icons=true&theme=radical)
 
 
 -----
