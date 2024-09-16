@@ -13,8 +13,11 @@
 💡 &nbsp;I like to explore new technologies and develop quick software solutions.\
 🎓 &nbsp;Currently studying Computer Science and Informatics.\
 🌱 &nbsp;Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+📚 &nbsp;Improving my backend skills with **Node.js & MongoDB**  
 ✉️ &nbsp;You can email me [here](mailto:rph26031994@gmail.com). I will try to respond as soon as possible.\
 📄 &nbsp;Check out my [portfolio](https://rodrigoporfolio26.netlify.app) for more details. I am open to feedback and suggestions!
+
+⚡ Fun fact: I love drawing and sometimes write scripts!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
