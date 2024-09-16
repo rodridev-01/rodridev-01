@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/33/ff/e0/33ffe07781f90b9ea9d5802745c3c826.gif" alt="Welcome">
-</p>
-
 <h2 align="center">
   <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40"/> Hey there! I'm Rodrigo
 </h2>
@@ -25,23 +21,25 @@
 
 🛠 &nbsp;<strong>Tech Stack</strong>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)<br>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro" alt="Astro"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop"/>
+</p>
 
 <br>
 
@@ -75,8 +73,5 @@
 </p>
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodridev-01&show_icons=true&theme=radical)
-
-
-
 
 
