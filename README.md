@@ -56,7 +56,7 @@
 
 🕹 &nbsp;<strong>Games</strong>
 
-- **[Raccoon's Adventure](https://github.com/rodridev-01/Raccoon-s-Adventure):** A fun platformer game where Rocket, an adventurous raccoon, tackles obstacles and collects coins in a world full of surprises. Download it and join him on his epic adventure!.
+- **[Raccoon's Adventure](https://github.com/rodridev-01/Raccoon-s-Adventure)**: A fun platformer game where Rocket, an adventurous raccoon, tackles obstacles and collects coins. Built with Unity and C#.
 
 <br>
 
