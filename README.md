@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+  <img alt="Night Coding" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" width="300"/>
 </div>
 
 <br>
