@@ -1,12 +1,5 @@
-<h2 align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="40"/> Hey there! I'm Rodrigo
-</h2>
-
-<br>
 [![An image of @rodridev01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rodridev01)](https://holopin.io/@rodridev01)
-<br>
-
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 Hi, I'm Rodrigo ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 💡 I like to explore new technologies and develop quick software solutions.<br>
 🎓 Currently studying Computer Science and Informatics.<br>
@@ -18,67 +11,8 @@
 ⚡ Fun fact: I love drawing and sometimes write scripts!
 
 ---
-
-### 🛠 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro" alt="Astro"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator"/>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop"/>
-    </td>
-  </tr>
-</table>
+ ### 🛠 Tech Stack
+<div align="center"> <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java" /> <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" alt="C#" /> <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro" alt="Astro" /> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" /> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" /> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" /> <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown" /> <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator" /> <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop" /> </div>
 
 ---
 
