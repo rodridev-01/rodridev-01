@@ -33,11 +33,9 @@ Passionate about exploring new tech and building innovative software solutions. 
 
 ### 🤝 Connect with Me
 
-<p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-pe%C3%B1a-0953762b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodridev-01&show_icons=true&theme=radical)
 
