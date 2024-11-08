@@ -12,7 +12,7 @@ Passionate about exploring new tech and building innovative software solutions. 
 
 ---
  ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,java,kotlin,git,github,unity,astro,react,figma,markdown&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mongodb,python,nodejs,java,kotlin,git,github,unity,astro,react,figma,markdown&theme=dark)](https://skillicons.dev)
 
 ---
 
