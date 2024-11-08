@@ -1,14 +1,14 @@
 [![An image of @rodridev01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rodridev01)](https://holopin.io/@rodridev01)
 ## 👨🏻‍💻 Hi, I'm Rodrigo ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💡 I like to explore new technologies and develop quick software solutions.<br>
+Passionate about exploring new tech and building innovative software solutions. <br>
 🎓 Currently studying Computer Science and Informatics.<br>
 🌱 Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 📚 Improving my backend skills with **Node.js & MongoDB**.<br>
-✉️ You can email me <a href="mailto:rph26031994@gmail.com" style="color:#f7c02b; text-decoration:none;">here</a>. I will try to respond as soon as possible.<br>
-📄 Check out my <a href="https://rodrigoporfolio26.netlify.app" style="color:#f7c02b; text-decoration:none;">portfolio</a> for more details. I am open to feedback and suggestions!
+✉️ Feel free to email me at <a href="mailto:rph26031994@gmail.com" style="color:#f7c02b; text-decoration:none;">here</a>, and I'll respond as soon as possible.<br>
+📄 Check out my <a href="https://rodrigoporfolio26.netlify.app" style="color:#f7c02b; text-decoration:none;">portfolio</a> for more details.
 
-⚡ Fun fact: I love drawing and sometimes write scripts!
+⚡ Fun fact: When I'm not coding, I love drawing and writing scripts for fun!
 
 ---
  ### 🛠 Tech Stack
