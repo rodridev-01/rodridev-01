@@ -2,11 +2,11 @@
 ## 👨🏻‍💻 Hi, I'm Rodrigo ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Passionate about exploring new tech and building innovative software solutions. <br>
-🎓 Currently studying Computer Science and Informatics.<br>
+🎓 Technical graduate in Computer Science and Informatics. Currently pursuing a degree in Systems Engineering.<br>
 🌱 Learning about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 📚 Improving my backend skills with **Node.js & MongoDB**.<br>
 ✉️ Feel free to email me at <a href="mailto:rph26031994@gmail.com" style="color:#f7c02b; text-decoration:none;">here</a>, and I'll respond as soon as possible.<br>
-📄 Check out my <a href="https://rodrigoporfolio26.netlify.app" style="color:#f7c02b; text-decoration:none;">portfolio</a> for more details.
+📄 Check out my <a href="https://rodridev.xyz" style="color:#f7c02b; text-decoration:none;">portfolio</a> for more details.  
 
 ⚡ Fun fact: When I'm not coding, I love drawing and writing scripts for fun!
 
@@ -37,6 +37,9 @@ Passionate about exploring new tech and building innovative software solutions. 
   <a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodridev-01&layout=compact&theme=radical&card_width=467)<br>
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodridev-01&show_icons=true&theme=radical)
+
+
 
 
