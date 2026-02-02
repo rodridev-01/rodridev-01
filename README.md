@@ -29,8 +29,6 @@ Passionate about exploring new tech and building innovative software solutions. 
 
 - **<a href="https://github.com/rodridev-01/Raccoon-s-Adventure" style="color:#f7c02b; text-decoration:none;">Raccoon's Adventure</a>:** A fun platformer with Rocket, an adventurous raccoon.
 
----
-
 ![My GitHub Game](game.gif)
 
 ---
