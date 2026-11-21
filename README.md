@@ -35,7 +35,6 @@ Passionate about exploring new tech and building innovative software solutions. 
 
 ### 🤝 Connect with Me
 
-  <a href="https://www.linkedin.com/in/rodrigo-pe%C3%B1a-0953762b1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:rph26031994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/rodrigou.py"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
